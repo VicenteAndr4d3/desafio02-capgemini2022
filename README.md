@@ -8,8 +8,8 @@
 
 ## Tecnologias Utilizadas:
 
-* IDE: Eclipse. \
-* Linguagem: Java. \
+* IDE: Eclipse. 
+* Linguagem: Java. 
 * JDK Version: 17.0.1. 
 
 ## Instrução para roda códigos:
