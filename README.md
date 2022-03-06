@@ -12,7 +12,7 @@
 * Linguagem: Java. 
 * JDK Version: 17.0.1. 
 
-## Instruções para roda códigos:
+## Instruções para rodar códigos:
 - 1 - Clone o repositório utilizando o Eclipse.
 - 2 - Importe os arquivo para dentro do Eclipse após ma clonagem.
 - Tutorial prático: [Clonando repositório para o Eclipse](https://www.youtube.com/watch?v=-IA9VivrY4c).
