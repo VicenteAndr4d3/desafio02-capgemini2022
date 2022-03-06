@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/59287246/155930748-26d3d0b3-866e-4fce-9489-aaf54533a7dd.png">
 </p>
 
-> Repositório criado para o desafio 02 da Capigemini 2022.
+> Repositório criado para o desafio 02 Capigemini 2022.
 
 # Desafio de Programação 02 - Capgemini 2022
 
@@ -12,7 +12,7 @@
 * Linguagem: Java. 
 * JDK Version: 17.0.1. 
 
-## Instruções para rodar códigos:
+## Instruções para rodar os códigos:
 - 1 - Clone o repositório utilizando o Eclipse.
 - 2 - Importe os arquivo para dentro do Eclipse após ma clonagem.
 - Tutorial prático: [Clonando repositório para o Eclipse](https://www.youtube.com/watch?v=-IA9VivrY4c).
