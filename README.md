@@ -15,7 +15,7 @@
 ## Instrução para roda códigos:
 - 1 - Clone o repositório utilizando o Eclipse.
 - 2 - Importe os arquivo para dentro do Eclipse após ma clonagem.
-- Tutorial prático: [Clonando repositório para o Eclipse] (https://www.youtube.com/watch?v=-IA9VivrY4c).
+Tutorial prático: [Clonando repositório para o Eclipse] (https://www.youtube.com/watch?v=-IA9VivrY4c).
 
 ## Desafios - Resolução:
 #### Questão 1
