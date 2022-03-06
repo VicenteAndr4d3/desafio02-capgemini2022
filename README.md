@@ -13,8 +13,8 @@
 * JDK Version: 17.0.1. 
 
 ## Instrução para roda códigos:
-- 1. Clone o repositório utilizando o Eclipse.
-- 2. Importe os arquivo para dentro do Eclipse após ma clonagem.
+- 1 - Clone o repositório utilizando o Eclipse.
+- 2 - Importe os arquivo para dentro do Eclipse após ma clonagem.
 - Tutorial prático: [Clonando repositório para o Eclipse] (https://www.youtube.com/watch?v=-IA9VivrY4c).
 
 ## Desafios - Resolução:
@@ -23,14 +23,14 @@
 Exemplo:
 
 Entrada
-``
+```
 listaDeNumeros = [9,2,1,4,6];
 
-``
+```
 Saída
-``
+```
 4
-``
+```
 * [Programa - Questão 01](https://github.com/VicenteAndr4d3/desafio02-capgemini2022/blob/master/desafio02-capgemini2022/src/Questoes/Questao01.java).
 
 #### Questão 2
@@ -40,14 +40,14 @@ Saída
 Exemplo:
 
 Entrada
-``
+```
 vetorNumero = [1,5,3,4,2];
-``
+```
 
 Saída
-``
+```
 3
-``
+```
 * [Programa - Questão 02](https://github.com/VicenteAndr4d3/desafio02-capgemini2022/blob/master/desafio02-capgemini2022/src/Questoes/Questao02.java).
 
 #### Questão 3
@@ -55,14 +55,14 @@ Saída
 Exemplo:
 
 Entrada
-``
+```
 String texto = "Tenha um bom dia";
-``
+```
 
 Saída
-``
+```
 Taoa eum nmd hbi
-``
+```
 * [Programa - Questão 03](https://github.com/VicenteAndr4d3/desafio02-capgemini2022/blob/master/desafio02-capgemini2022/src/Questoes/Questao03.java).
 
 
