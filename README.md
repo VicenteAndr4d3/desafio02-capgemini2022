@@ -3,3 +3,11 @@
 </p>
 
 # Desafio de Programação 02
+
+## Tecnologias Utilizadas:
+------------ | ---------
+    IDE      |   Eclipse
+ Linguagem   |    Java
+JDK Version  |   17.0.1
+
+
