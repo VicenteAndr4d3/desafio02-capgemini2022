@@ -6,7 +6,7 @@
 
 ## Tecnologias Utilizadas:
 
-Tecnologia | Utilizada
+Tecnologia
 ---------- | ---------
 IDE        | Eclipse
 Linguagem  | Java
