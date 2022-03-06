@@ -5,8 +5,6 @@
 # Desafio de Programação 02
 
 ## Tecnologias Utilizadas:
-
-Alimentos | Preço
 --------- | ------
 IDE     | Eclipse
 Linguagem    | Java
