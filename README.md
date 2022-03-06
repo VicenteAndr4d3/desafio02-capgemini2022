@@ -20,12 +20,13 @@
 ## Desafios - Resolução:
 #### Questão 1
 - Usuário irá inserir 5 valores, com isso, os mesmo serão adicionado a uma lista, ordenados e por fim será feito o cálculo para descobrir a mediana da lista.
+
+
 Exemplo:
 
 Entrada
 ```
 listaDeNumeros = [9,2,1,4,6];
-
 ```
 Saída
 ```
@@ -37,6 +38,8 @@ Saída
 - Usuário digita valores até o tamanho do vetor
 - Usuário informa um valor inteiro x
 - Dessa forma, uma função fica responsável por percorrer vetor e gerar o resultado da diferença entre os seus elementos. Assim, verificando se são iguais ao valor de x, retornando o total de pares de vetores com esse resultado.
+
+
 Exemplo:
 
 Entrada
@@ -52,6 +55,8 @@ Saída
 
 #### Questão 3
 - Usuário digita um texto e lhe é retornado o mesmo encriptado com base nos critérios pedidos na questão.
+
+
 Exemplo:
 
 Entrada
